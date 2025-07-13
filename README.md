@@ -1,6 +1,6 @@
 
 ## 🌐 Live Demo
-👉 [Click here to view the project]((https://movie-explorer-1.netlify.app/))
+👉 [Click here to view the project](https://movie-explorer-1.netlify.app/)
 
 
 
